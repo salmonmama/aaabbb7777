@@ -3,4 +3,4 @@ public class Good {
         System.out.println("Good");
         System.out.println("Good2");
     }
-}
+}あああああ
